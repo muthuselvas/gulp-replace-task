@@ -18,7 +18,7 @@
   "dependencies": {
     "through2": "^2.0.0",
     "gulp-util": "^3.0.0",
-    "applause": "1.1.0"
+    "applause": "^1.2.0"
   },
   "devDependencies": {
     "mocha": "^2.2.0"
